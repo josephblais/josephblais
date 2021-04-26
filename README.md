@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://github.com/josephblais/josephblais/">
+  <img src="https://raw.githubusercontent.com/josephblais/josephblais/main/images/Github-header.png" width="100%>
+</a>
 
 <!--
 **josephblais/josephblais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
