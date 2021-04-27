@@ -49,7 +49,51 @@ Hi! I am a full stack web developer pivoting from 6 years of experience in freel
         <p><strong>Back-end:</strong> Node.js, Express, Twilio, PostgreSQL</p>
         </details>
     </td>
-    
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+     <a href="https://github.com/josephblais/scheduler">
+          <img src="https://raw.githubusercontent.com/josephblais/josephblais/main/images/Scheduler_button.png" width="30%" alt="Interview Scheduler" align="left"/>
+      </a>
+      <a href="https://github.com/josephblais/scheduler">
+      <h3 align="right">Interview Scheduler</h3>
+      </a>
+      <br />
+      <p align="right"><a href="https://github.com/josephblais/scheduler">Repo</a></p>
+      <p align="right">A React-based web application that allows users to book/modify/delete appointments with an interviewer of their choice in any available time slot.</p>
+      <details>
+        <summary>More</summary>
+        <br />
+        <a href="https://github.com/josephblais/scheduler">
+            <img src="https://raw.githubusercontent.com/josephblais/scheduler/master/docs/new-apointment.gif" width="100%" alt="Interview Scheduler"/>
+        </a>
+        <p><strong>Front-end:</strong> HTML, CSS, React, WebSockets</p>
+        <p><strong>Back-end:</strong> Node.js, Axios, PostgreSQL</p>
+        <p><strong>Testing:</strong> Storybook, Jest, Cypress</p>
+        </details>
+    </td>
+    <td width="33%" valign="top">
+     <a href="https://github.com/josephblais/tweeter">
+          <img src="https://raw.githubusercontent.com/josephblais/josephblais/main/images/Vend_button.png" width="30%" alt="Tweeter" align="right"/>
+      </a>
+      <a href="https://github.com/josephblais/tweeter">
+      <h3>Tweeter</h3>
+      </a>
+      <br />
+      <p><a href="https://github.com/josephblais/tweeter">Repo</a></p>
+      <p>A single-page Twitter cloen that allows users to create and post new tweets.</p>
+      <details>
+        <summary>More</summary>
+        <br />
+        <a href="https://github.com/josephblais/tweeter">
+            <img src="https://raw.githubusercontent.com/josephblais/tweeter/master/docs/mobile-view.gif" width="100%" alt="Tweeter"/>
+        </a>
+        <p><strong>Front-end:</strong> HTML, CSS,, JavaScript, jQuery, AJAX</p>
+        <p><strong>Back-end:</strong> Node.js, Express, MongoDB</p>
+        </details>
+    </td>
   </tr>
 </table>
+
+
 
