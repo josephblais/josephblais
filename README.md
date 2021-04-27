@@ -10,14 +10,14 @@ Hi! I am a full stack web developer pivoting from 6 years of experience in freel
   <tr>
     <td width="33%" valign="top">
      <a href="https://github.com/JasmeetRangar/We.TV">
-          <img src="https://raw.githubusercontent.com/josephblais/josephblais/main/images/WeTV_button.png" width="30%" alt="We.TV" align="right"/>
+          <img src="https://raw.githubusercontent.com/josephblais/josephblais/main/images/WeTV_button.png" width="30%" alt="We.TV" align="left"/>
       </a>
       <a href="https://github.com/JasmeetRangar/We.TV">
-      <h3>We.TV</h3>
+      <h3 align="right">We.TV</h3>
       </a>
       <br />
-      <p><a href="https://github.com/JasmeetRangar/We.TV">Repo</a></p>
-      <p>We.TV is a social media app for TV fans. Every TV show has a page which is programatically generated. Users can favourite shows and start sharing content, as well as chatting in a per-show chatroom.</p>
+      <p align="right"><a href="https://github.com/JasmeetRangar/We.TV">Repo</a></p>
+      <p align="right">We.TV is a social media app for TV fans. Every TV show has a page which is programatically generated. Users can favourite shows and start sharing content, as well as chatting in a per-show chatroom.</p>
       <details>
         <summary>More</summary>
         <br />
@@ -30,7 +30,7 @@ Hi! I am a full stack web developer pivoting from 6 years of experience in freel
         </details>
     </td>
     <td width="33%" valign="top">
-     <a href="https://github.com/JasmeetRangar/We.TV">
+     <a href="https://github.com/mclmnop/midterm-project">
           <img src="https://raw.githubusercontent.com/josephblais/josephblais/main/images/Vend_button.png" width="30%" alt="VEND" align="right"/>
       </a>
       <a href="https://github.com/mclmnop/midterm-project">
@@ -52,10 +52,4 @@ Hi! I am a full stack web developer pivoting from 6 years of experience in freel
     
   </tr>
 </table>
-
-
-
-
-
-
 
