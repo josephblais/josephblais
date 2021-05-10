@@ -74,7 +74,7 @@ Hi! I am a full stack web developer pivoting from 6 years of experience in freel
     </td>
     <td width="33%" valign="top">
      <a href="https://github.com/josephblais/tweeter">
-          <img src="https://raw.githubusercontent.com/josephblais/josephblais/main/images/Vend_button.png" width="30%" alt="Tweeter" align="right"/>
+          <img src="https://raw.githubusercontent.com/josephblais/josephblais/main/images/Tweeter_button.png" width="30%" alt="Tweeter" align="right"/>
       </a>
       <a href="https://github.com/josephblais/tweeter">
       <h3>Tweeter</h3>
