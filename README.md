@@ -81,7 +81,7 @@ Hi! I am a full stack web developer pivoting from 6 years of experience in freel
       </a>
       <br />
       <p><a href="https://github.com/josephblais/tweeter">Repo</a></p>
-      <p>A single-page Twitter cloen that allows users to create and post new tweets.</p>
+      <p>A single-page Twitter clone that allows users to create and post new tweets.</p>
       <details>
         <summary>More</summary>
         <br />
@@ -93,7 +93,29 @@ Hi! I am a full stack web developer pivoting from 6 years of experience in freel
         </details>
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+     <a href="https://github.com/josephblais/shopify-internship-challenge">
+          <img src="https://raw.githubusercontent.com/josephblais/josephblais/main/images/Shoppies_button.png" width="30%" alt="Interview Scheduler" align="left"/>
+      </a>
+      <a href="https://github.com/josephblais/shopify-internship-challenge">
+      <h3 align="right">Shoppies</h3>
+      </a>
+      <br />
+      <p align="right"><a href="https://github.com/josephblais/shopify-internship-challenge">Repo</a></p>
+      <p align="right">A front-end application built for the <a href="https://docs.google.com/document/d/1SdR9rQpocsH5rPTOcxr9noqHRld5NJlylKO9Hf94U8U/edit#heading=h.c7xqfkhsqnd4">Shopify UX & Web Developer Internship Challenge</a>. Users can search for and nominate films for an awards ceremony.</p>
+      <details>
+        <summary>More</summary>
+        <br />
+        <a href="https://github.com/josephblais/shopify-internship-challenge">
+            <img src="https://raw.githubusercontent.com/josephblais/shopify-internship-challenge/main/public/shoppies.gif" width="100%" alt="shoppies"/>
+        </a>
+        <p><strong>Front-end:</strong> HTML, CSS, React, styled-components</p>
+        <p><strong>API:</strong> OMDB</p>
+        </details>
+    </td>
+    <td width="33%" valign="top">
+    <h3><a href="https://github.com/josephblais?tab=repositories">...and much more!</a></h3>
+    </td>
+  </tr>
 </table>
-
-
-
