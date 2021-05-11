@@ -103,6 +103,7 @@ Hi! I am a full stack web developer pivoting from 6 years of experience in freel
       </a>
       <br />
       <p align="right"><a href="https://github.com/josephblais/shopify-internship-challenge">Repo</a></p>
+      <p align="right"><a href="https://josephblais.github.io/shopify-internship-challenge/">View online!</a></p>
       <p align="right">A front-end application built for the <a href="https://docs.google.com/document/d/1SdR9rQpocsH5rPTOcxr9noqHRld5NJlylKO9Hf94U8U/edit#heading=h.c7xqfkhsqnd4">Shopify UX & Web Developer Internship Challenge</a>. Users can search for and nominate films for an awards ceremony.</p>
       <details>
         <summary>More</summary>
@@ -112,7 +113,6 @@ Hi! I am a full stack web developer pivoting from 6 years of experience in freel
         </a>
         <p><strong>Front-end:</strong> HTML, CSS, React, styled-components</p>
         <p><strong>API:</strong> OMDB</p>
-        <p><a href="https://josephblais.github.io/shopify-internship-challenge/">View online!</a></p>
         </details>
     </td>
     <td width="33%" valign="top">
