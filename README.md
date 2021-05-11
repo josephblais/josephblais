@@ -112,6 +112,7 @@ Hi! I am a full stack web developer pivoting from 6 years of experience in freel
         </a>
         <p><strong>Front-end:</strong> HTML, CSS, React, styled-components</p>
         <p><strong>API:</strong> OMDB</p>
+        <p><a href="https://josephblais.github.io/shopify-internship-challenge/">View online!</a></p>
         </details>
     </td>
     <td width="33%" valign="top">
