@@ -98,7 +98,7 @@ Here are a few of the projects I've been working on lately. Click around! And do
   <tr>
     <td width="33%" valign="top">
      <a href="https://github.com/josephblais/shopify-internship-challenge">
-          <img src="https://raw.githubusercontent.com/josephblais/josephblais/main/images/Shoppies_button.png" width="30%" alt="Interview Scheduler" align="left"/>
+          <img src="https://raw.githubusercontent.com/josephblais/josephblais/main/images/Shoppies_button.png" width="30%" alt="Shoppies" align="left"/>
       </a>
       <a href="https://github.com/josephblais/shopify-internship-challenge">
       <h3 align="right">Shoppies</h3>
