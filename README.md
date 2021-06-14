@@ -118,6 +118,40 @@ Here are a few of the projects I've been working on lately. Click around! And do
         </details>
     </td>
     <td width="33%" valign="top">
+     <a href="https://github.com/josephblais/css-codepens">
+          <img src="https://raw.githubusercontent.com/josephblais/josephblais/main/images/CSSTests_button.png" width="30%" alt="CSS Tests" align="right"/>
+      </a>
+      <a href="https://github.com/josephblais/css-codepens">
+      <h3>CSS Tests</h3>
+      </a>
+      <br />
+      <p><a href="https://github.com/josephblais/css-codepens">Repo</a></p>
+      <p>A collection of codepens where I've built small front-end demo projects and tested CSS properties.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+     <a href="https://github.com/josephblais/vibecheck">
+          <img src="https://raw.githubusercontent.com/josephblais/josephblais/main/images/Vibe-Check_button.png" width="30%" alt="Vibe Check" align="left"/>
+      </a>
+      <a href="https://github.com/josephblais/vibecheck">
+      <h3 align="right">Vibe Check</h3>
+      </a>
+      <br />
+      <p align="right"><a href="https://github.com/josephblais/vibecheck">Repo</a></p>
+      <p align="right"><a href="https://josephblais.github.io/vibecheck/">Check Your Vibe</a></p>
+      <p align="right">A dumb little app that tells you whether you vibe or not. Very stupid. Possibly my greatest achievement.</p>
+      <details>
+        <summary>More</summary>
+        <br />
+        <a href="https://github.com/josephblais/vibecheck">
+            <img src="https://raw.githubusercontent.com/josephblais/vibecheck/main/Vibe_check.png" width="100%" alt="Vibe Check"/>
+        </a>
+        <p><strong>Front-end:</strong> HTML, CSS, JavaScript</p>
+        <p><strong>Vibes:</strong>Checked</p>
+        </details>
+    </td>
+    <td width="33%" valign="top">
     <h3><a href="https://github.com/josephblais?tab=repositories">...and much more!</a></h3>
     </td>
   </tr>
