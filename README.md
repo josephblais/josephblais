@@ -19,7 +19,7 @@ Here are a few of the projects I've been working on lately. Click around! And do
       </a>
       <br />
       <p align="right"><a href="https://github.com/JasmeetRangar/We.TV">Repo</a></p>
-      <p align="right">We.TV is a social media app for TV fans. Every TV show has a page which is programatically generated. Users can favourite shows and start sharing content, as well as chatting in a per-show chatroom.</p>
+      <p align="right">A social media app for TV fans. Every TV show has a page which is programatically generated. Users can favourite shows and start sharing content, as well as chatting in a per-show chatroom.</p>
       <details>
         <summary>More</summary>
         <br />
