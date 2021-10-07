@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/josephblais/josephblais/main/images/Github-header.png" width="100%">
 
-Hey! I am a front end facing full stack web developer with a passion for UI/UX. I love working with modern frameworks, languages, and CMS to make beautiful, responsive, accessible products. 
+Hey! I am a full stack web developer with a passion for UI/UX. I love working with modern frameworks, languages, and CMS to make beautiful, responsive, accessible products. 
 
 I've been working hard as a web developer at <a href="https://lifeworks.com/en" target="_blank">LifeWorks</a> these last few months (hence the lack of little green squares). Here are a few of the projects I've worked on before that. Click around! And don't hesitate to message me on <a href="https://www.linkedin.com/in/joseph-blais/" target="_blank">LinkedIn</a> if you have any questions!
 
