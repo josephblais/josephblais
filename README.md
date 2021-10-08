@@ -145,7 +145,7 @@ I've been working hard as a web developer at <a href="https://lifeworks.com/en" 
         <summary>More</summary>
         <br />
         <a href="https://github.com/josephblais/vibecheck">
-            <img src="https://raw.githubusercontent.com/josephblais/vibecheck/main/Vibe_check.png" width="100%" alt="Vibe Check"/>
+            <img src="https://raw.githubusercontent.com/josephblais/vibecheck/main/vibe_check.gif" width="100%" alt="Vibe Check"/>
         </a>
         <p><strong>Front-end:</strong> HTML, CSS, JavaScript</p>
         <p><strong>Vibes:</strong>Checked</p>
