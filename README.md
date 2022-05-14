@@ -2,7 +2,7 @@
 
 Hey! I am a full stack web developer with a passion for UI/UX. I love working with modern frameworks, languages, and CMS to make beautiful, responsive, accessible products. 
 
-I'm currently working as a freelance web developer after leaving my web dev position at <a href="https://lifeworks.com/en" target="_blank">LifeWorks</a>. Here are a few of the projects I've worked on. Click around! And don't hesitate to message me on <a href="https://www.linkedin.com/in/joseph-blais/" target="_blank">LinkedIn</a> if you have any questions!
+I'm currently working as a front end web developer at <a href="https://folkloreinc.ca/en" target="_blank">Folklore</a>, a division of <a href="https://www.urbania.media/home/" target="_blank">Urbania Media</a>. Here are a few of the projects I've worked on. Click around! And don't hesitate to message me on <a href="https://www.linkedin.com/in/joseph-blais/" target="_blank">LinkedIn</a> if you have any questions!
 
 ---
 
